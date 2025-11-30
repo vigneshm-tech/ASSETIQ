@@ -1,0 +1,5 @@
+{
+  "name": "AssetsIQ",
+  "description": "An AI-powered tool to extract structured IT asset data from unstructured HTML files and convert them into clean CSV, XLSX, or JSON formats.",
+  "requestFramePermissions": []
+}
